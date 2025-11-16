@@ -11,6 +11,16 @@
 *$removeparam=utm_social-type
 *$removeparam=utm_swu
 *$removeparam=utm_v
+*$removeparam=ref
+*$removeparam=source
+*$removeparam=sourceid
+*$removeparam=srcid
+*$removeparam=src
+*$removeparam=_branch_match_id
+*$removeparam=igshid
+*$removeparam=shareid
+*$removeparam=share_id
+*$removeparam=sharing_id
 
 ! Facebook Click IDs
 *$removeparam=fbclid
