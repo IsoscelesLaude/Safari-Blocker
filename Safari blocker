@@ -1,0 +1,112 @@
+! GLOBAL TRACKING PARAMETER STRIP
+*$removeparam=utm_source
+*$removeparam=utm_medium
+*$removeparam=utm_campaign
+*$removeparam=utm_term
+*$removeparam=utm_content
+*$removeparam=utm_name
+*$removeparam=utm_cid
+*$removeparam=utm_reader
+*$removeparam=utm_social
+*$removeparam=utm_social-type
+*$removeparam=utm_swu
+*$removeparam=utm_v
+
+! Facebook Click IDs
+*$removeparam=fbclid
+*$removeparam=fbc
+*$removeparam=fb_source
+*$removeparam=fb_ref
+
+! Google Click IDs
+*$removeparam=gclid
+*$removeparam=gclsrc
+*$removeparam=dclid
+*$removeparam=wbraid
+*$removeparam=gbraid
+
+! Microsoft/Bing Click IDs
+*$removeparam=msclkid
+
+! Twitter/X Click IDs
+*$removeparam=twclid
+
+! TikTok Click IDs
+*$removeparam=ttclid
+
+! LinkedIn Click IDs
+*$removeparam=li_fat_id
+*$removeparam=liid
+
+! Pinterest Click IDs
+*$removeparam=epik
+*$removeparam=pinterest_ref
+
+! Yahoo Click IDs
+*$removeparam=yclid
+
+! Snapchat Click IDs
+*$removeparam=scid
+*$removeparam=snapcid
+
+! Adobe / Marketing Cloud IDs
+*$removeparam=s_cid
+*$removeparam=s_sq
+*$removeparam=s_vi
+*$removeparam=cid
+
+! Affiliate & Ad Tracking IDs
+*$removeparam=affid
+*$removeparam=affiliate_id
+*$removeparam=affsource
+*$removeparam=afftrack
+*$removeparam=clickid
+*$removeparam=click_id
+*$removeparam=clkid
+*$removeparam=clickref
+*$removeparam=click_ref
+*$removeparam=click_tracking_id
+*$removeparam=tracking_id
+*$removeparam=trackingid
+*$removeparam=trackid
+*$removeparam=refid
+*$removeparam=ref_id
+*$removeparam=refsrc
+*$removeparam=spm
+*$removeparam=pk_campaign
+*$removeparam=pk_kwd
+*$removeparam=mc_cid
+*$removeparam=mc_eid
+
+! Device IDs & App Attribution IDs
+*$removeparam=adid
+*$removeparam=device_id
+*$removeparam=deviceid
+*$removeparam=idfa
+*$removeparam=android_id
+*$removeparam=aaid
+*$removeparam=imei
+*$removeparam=imsi
+*$removeparam=mac_address
+*$removeparam=udid
+*$removeparam=uuid
+*$removeparam=guid
+*$removeparam=client_id
+*$removeparam=customer_id
+*$removeparam=subscriber_id
+
+! Misc Marketing Junk
+*$removeparam=campaign_id
+*$removeparam=creative_id
+*$removeparam=placement_id
+*$removeparam=adgroup_id
+*$removeparam=adgroupid
+*$removeparam=creative
+*$removeparam=adid
+*$removeparam=adset_id
+*$removeparam=adset
+*$removeparam=adname
+*$removeparam=ad_name
+*$removeparam=ad_position
+*$removeparam=adpos
+*$removeparam=adplacement
