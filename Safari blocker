@@ -1,4 +1,3 @@
-
 ! GLOBAL WILDCARD STRIP (removes ALL URL parameters)
 *$removeparam=*
 
