@@ -1,3 +1,7 @@
+
+! GLOBAL WILDCARD STRIP (removes ALL URL parameters)
+*$removeparam=*
+
 ! GLOBAL TRACKING PARAMETER STRIP
 *$removeparam=utm_source
 *$removeparam=utm_medium
