@@ -22,7 +22,7 @@
 *$removeparam=share_id
 *$removeparam=sharing_id
 
-! Facebook Click IDs
+! Facebook Click ID's
 *$removeparam=fbclid
 *$removeparam=fbc
 *$removeparam=fb_source
